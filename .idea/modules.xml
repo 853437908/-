@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/starw-eureka-center/starw-eureka-center.iml" filepath="$PROJECT_DIR$/starw-eureka-center/starw-eureka-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw.iml" filepath="$PROJECT_DIR$/straw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-commons/straw-commons.iml" filepath="$PROJECT_DIR$/straw-commons/straw-commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-gateway/straw-gateway.iml" filepath="$PROJECT_DIR$/straw-gateway/straw-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-generator/straw-generator.iml" filepath="$PROJECT_DIR$/straw-generator/straw-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-kafka-sample/straw-kafka-sample.iml" filepath="$PROJECT_DIR$/straw-kafka-sample/straw-kafka-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-portal/straw-portal.iml" filepath="$PROJECT_DIR$/straw-portal/straw-portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-reids-tag/straw-reids-tag.iml" filepath="$PROJECT_DIR$/straw-reids-tag/straw-reids-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/straw-resource/straw-resource.iml" filepath="$PROJECT_DIR$/straw-resource/straw-resource.iml" />
+    </modules>
+  </component>
+</project>
